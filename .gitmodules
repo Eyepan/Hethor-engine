@@ -1,0 +1,28 @@
+[submodule "Hethor/vendor/spdlog"]
+	path = Hethor/vendor/spdlog
+	url = ../../gabime/spdlog.git
+	branch = v1.x
+[submodule "Hethor/vendor/GLFW"]
+	path = Hethor/vendor/GLFW
+	url = ../../Eyepan/glfw.git
+	branch = master
+[submodule "Hethor/vendor/imgui"]
+	path = Hethor/vendor/imgui
+	url = ../../Eyepan/imgui.git
+	branch = docking
+[submodule "Hethor/vendor/glm"]
+	path = Hethor/vendor/glm
+	url = ../../g-truc/glm.git
+	branch = master
+[submodule "Hethor/vendor/yaml-cpp"]
+	path = Hethor/vendor/yaml-cpp
+	url = https://github.com/thecherno/yaml-cpp
+[submodule "Hethor/vendor/ImGuizmo"]
+	path = Hethor/vendor/ImGuizmo
+	url = https://github.com/thecherno/imguizmo
+[submodule "Hethor/vendor/Box2D"]
+	path = Hethor/vendor/Box2D
+	url = https://github.com/thecherno/box2d
+[submodule "Hethor/vendor/msdf-atlas-gen"]
+	path = Hethor/vendor/msdf-atlas-gen
+	url = https://github.com/Eyepan/msdf-atlas-gen
